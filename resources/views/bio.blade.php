@@ -20,7 +20,7 @@
 
     <div class="container">
         <div class="navbar">
-            <div class="nav-sub">
+            <div class="nav-sub1">
                 <div class="mains">
                     <a href="{{ route('home') }}"><img src="{{ asset('assets/img/slogo.png') }}" alt=""></a>
                 </div>
